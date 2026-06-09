@@ -74,4 +74,16 @@ This project strengthened my practical skills in Power BI, data visualization, f
 
 ---
 
+## Demo Pictures
+
+<img width="1320" height="746" alt="Screenshot 2025-12-04 224533" src="https://github.com/user-attachments/assets/e4f3c758-1597-47f8-b4b9-8df0a853971f" />
+
+
+<img width="1323" height="744" alt="Screenshot 2025-12-04 224618" src="https://github.com/user-attachments/assets/fa0c493c-59d3-4935-9464-744deade6e08" />
+
+<img width="1904" height="1058" alt="Screenshot 2025-12-04 224504" src="https://github.com/user-attachments/assets/6f9545c3-cc2e-42da-b6f0-aaae26a12afe" />
+
+
+
+
 ### ⭐ If you found this project useful, consider giving it a star!
